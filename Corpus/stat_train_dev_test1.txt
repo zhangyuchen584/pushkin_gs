@@ -1,0 +1,83 @@
+topic,neg,neutral,pos
+home team ns,2,24,3
+cadet,4,43,8
+ippt,39,131,36
+maju camp,3,24,4
+platton mate,0,0,0
+kranji,3,14,3
+bedok camp,6,31,2
+training institute,3,15,1
+kranji camp,0,22,0
+reservist trainers,0,0,1
+saf,5,38,17
+navy,1,14,0
+stagmont,1,7,1
+camp mate,1,6,1
+commandos,1,9,3
+mandai hill,2,17,0
+keat hong,5,4,0
+tampines,0,5,2
+safra resort,0,42,2
+ord,38,292,99
+cadets,2,22,10
+maju,0,1,0
+ncc,1,5,1
+jurong,1,23,2
+platoon,14,82,27
+khatib,5,13,2
+bedok,2,2,1
+national service resort country club,1,65,10
+army life,5,21,4
+selarang camp,3,15,2
+air force,4,72,6
+lim chu kang,1,5,3
+enlistment,16,84,51
+reservist,23,89,16
+tekong,39,151,27
+ocs buddy,0,0,1
+arc tampines,0,1,0
+officer cadet school,0,1,0
+field camp,20,66,7
+ocs,9,32,13
+singapore infantry regiment,3,23,1
+mandai,1,19,0
+nee soon camp,5,43,1
+sembawang,3,27,2
+hq scdf 3rd division,0,1,0
+infantry,7,20,1
+sungei gedong camp,8,38,0
+ns life,9,25,16
+sarimbun,0,9,3
+military,1,11,0
+mosquito commando,1,0,0
+pasir laba,4,23,10
+keat hong camp,0,9,0
+pulau tekong,0,19,0
+nsmen,0,7,3
+pasir laba camp,0,24,0
+amoy quee,1,13,0
+bmt,21,68,36
+service training,0,4,0
+sungei gedong,1,0,0
+pasir,4,7,2
+seletar,5,17,0
+uniform,5,13,1
+"leader's square , pasir laba camp",0,5,0
+army boys,2,11,0
+mindef,2,7,0
+hendon,3,11,3
+selarang,0,0,0
+national service training institute,1,23,0
+bookout,19,100,41
+national service,12,46,7
+commando,12,37,10
+safti,0,9,0
+paya lebar,0,6,0
+clementi,0,17,2
+nee soon,1,0,0
+pasir ris,2,13,2
+scdf,1,2,3
+platoon mates,0,4,3
+rsaf,0,6,1
+
+
